@@ -1,5 +1,5 @@
 # pd18is5e
-##Proyecto integrador
+## Proyecto integrador
 ### Programación distribuida
 #### Ingeniería de Software
 ##### Facultad de Telemática
