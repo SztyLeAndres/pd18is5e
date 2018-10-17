@@ -1,0 +1,10 @@
+DROP TABLE IF EXISTS Administradores;
+
+CREATE TABLE Administradores(
+    Id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    Nombre VARCHAR(50) NOT NULL,
+    Apellidos VARCHAR(50) NOT NULL,
+    Username VARCHAR(50) NOT NULL,
+    Correo VARCHAR(60) NOT NULL,
+    Pass VARCHAR(40) NOT NULL
+);

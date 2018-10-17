@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS Etiquetas
+
+CREATE TABLE Etiquetas(
+    Id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    Keyword VARCHAR(20),
+    Dominio VARCHAR(20)
+);
