@@ -1,0 +1,3 @@
+1vco.text = {palabras:55, palabrasNoRepetidas:48}
+2vco.txt = {palabras:100, palabrasNoRepetidas:71}
+3vco.txt = {palabras:128, palabrasNoRepetidas:86}
