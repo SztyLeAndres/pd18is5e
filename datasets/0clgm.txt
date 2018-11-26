@@ -1,0 +1,4 @@
+
+1clgm.txt = {palabras:64, palabrasNoRepetidas:48}
+2clgm.txt = {palabras:57, palabrasNoRepetidas:40}
+3clgm.txt = {palabras:73, palabrasNoRepetidas:60}
