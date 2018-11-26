@@ -1,0 +1,12 @@
+======= Palabras repetidas en los escritos =======
+Total de palabras en el archivo 1mbma.txt: 160
+Total de palabras en el archivo 2mbma.txt: 117
+Total de palabras en el archivo 3mbma.txt: 104
+
+======= Palabras sin repetir en cada escrito =======
+Total de palabras sin repetir en el archivo 1mbma.txt: 113
+Total de palabras sin repetir en el archivo 2mbma.txt: 81
+Total de palabras sin repetir en el archivo 3mbma.txt: 81
+
+======= Palabras sin repetir en 3 escritos =======
+Total: 23
