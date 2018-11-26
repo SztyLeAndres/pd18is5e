@@ -1,0 +1,11 @@
+1acg.txt
+Number of different words: 91
+Number of words: 143
+
+2acg.txt
+Number of different words: 83
+Number of words: 132
+
+3acg.txt
+Number of different words: 65
+Number of words: 87
