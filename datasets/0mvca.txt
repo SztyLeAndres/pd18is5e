@@ -1,0 +1,40 @@
+cantidad de palabras repetidas en 1mvca.txt:
+70
+cantidad de palabras sin repetir en 1mvca.txt:
+22
+cantidad de caracteres en 1mvca.txt:
+748
+cantidad de silabas en 1mvca.txt:
+245
+
+
+cantidad de palabras repetidas en 2mvca.txt:
+67
+cantidad de palabras sin repetir en 2mvca.txt:
+26
+cantidad de caracteres en 2mvca.txt:
+845
+cantidad de silabas en 2mvca.txt:
+284
+
+
+cantidad de palabras repetidas en 3mvca.txt:
+75
+cantidad de palabras sin repetir en 3mvca.txt:
+18
+cantidad de caracteres en 3mvca.txt:
+814
+cantidad de silabas en 3mvca.txt:
+277
+
+
+cantidad de palabras repetidas en en todos los archivos:
+177
+cantidad de palabras sin repetir en en todos los archivos:
+57
+cantidad de caracteres en en todos los archivos:
+2407
+cantidad de silabas en en todos los archivos:
+806
+
+
