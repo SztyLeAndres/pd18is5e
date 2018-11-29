@@ -1,0 +1,27 @@
+﻿ Apartado de palabras repetidas
+El total de palabras en el archivo es: 1GVJL.txt: 113
+El total de palabras en el archivo es: 2GVJL.txt: 160
+El total de palabras en el archivo es: 3GVJL.txt: 110
+ ------------------------------------
+
+ Palabras sin repetir
+El total de palabras sin repetir en el archivo es igual a 1GVJL.txt: 88
+El total de palabras sin repetir en el archivo es igual a 2GVJL.txt: 111
+El total de palabras sin repetir en el archivo es igual a 3GVJL.txt: 80
+ ------------------------------------
+
+  Sílabas en cada escrito 
+Total de silabas en 1GVJL.txt: 222
+Total de silabas en 2GVJL.txt: 323
+Total de silabas en 3GVJL.txt: 213
+ ------------------------------------
+
+  Caracteres
+El total de caracteres en el archivo es igual a 1GVJL.txt: 716
+El total de caracteres en el archivo es igual a 2GVJL.txt: 960
+El total de caracteres en el archivo es igual a 3GVJL.txt: 660
+ ------------------------------------
+
+  Palabras sin repetir en 3 escritos 
+238
+ ------------------------------------

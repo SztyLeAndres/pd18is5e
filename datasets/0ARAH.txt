@@ -1,0 +1,12 @@
+======= Palabras repetidas en los escritos =======
+Total de palabras en el archivo 1arah.txt: 110
+Total de palabras en el archivo 2arah.txt: 177
+Total de palabras en el archivo 3arah.txt: 182
+
+======= Palabras sin repetir en cada escrito =======
+Total de palabras sin repetir en el archivo 1arah.txt: 68
+Total de palabras sin repetir en el archivo 2arah.txt: 98
+Total de palabras sin repetir en el archivo 3arah.txt: 109
+
+======= Palabras sin repetir en 3 escritos =======
+Total: 237
