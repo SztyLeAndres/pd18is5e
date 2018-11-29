@@ -1,0 +1,80 @@
+1pgaa.txt = 69 palabras {lo=2, con=3, veo=2, para=2, tiempo=2}
+2pgaa.txt = 103 palabras {son=2, como=2, valores=3, sean=2, nos=2, cultura=2, entiendo=2}
+3pgaa.txt = 118 palabras {gusta=2, cómo=2, es=2, mucho=2, no=5, se=2, sé=2, recuerdo=2}
+juntos tienen = 288
+
+Se repiten en los tres 
+{como=2, mucho=2, se=2, si=2, hecho=2, todo=2, cultura=2, 
+tiempo=2, entiendo=2, lo=3, con=3, gusta=3, son=2, veo=2,  
+de=2, cómo=2, es=2, valores=3, no=5, sean=2, también=2, nos=3, 
+para=3, sé=2, más=2, una=2, recuerdo=2}
+
+las sílabas = 527
+
+las letras
+
+
+é= 5
+
+á= 3
+
+z= 1
+
+y= 10
+
+x= 3
+
+v= 12
+
+u= 72
+
+t= 67
+
+s= 115
+
+r= 87
+
+q= 27
+
+p= 48
+
+o= 130
+
+n= 91
+
+ú= 4
+
+m= 47
+
+l= 49
+
+;= 2
+
+j= 11
+
+i= 67
+
+
+= 21
+
+h= 15
+
+g= 10
+
+f= 4
+
+ó= 6
+
+e= 188
+
+ñ= 2
+
+d= 53
+
+c= 55
+
+b= 14
+
+a= 158
+
+í= 5
