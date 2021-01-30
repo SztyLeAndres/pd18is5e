@@ -1,0 +1,14 @@
+Num silabas 252
+Num letras sin repetir 90
+Total caracteres 126
+Numero de letras escritas{a=52, ¡=1, b=15, c=28, ã=8, d=20, e=89, f=4, g=17, h=6, i=43, ©=2, j=2, k=2, l=31, m=27, ­=0, n=46, o=54, p=18, ±=1, q=4, r=50, s=45, ³=3, t=30, u=28, v=3, w=1, x=0, y=7, z=1, º=1}
+
+Num silabas 223
+Num letras sin repetir 82
+Total caracteres 125
+Numero de letras escritas{a=51, ¡=5, b=6, c=26, ã=13, d=16, e=75, f=4, g=8, h=8, i=20, ©=1, j=0, k=0, l=32, m=23, ­=5, n=41, o=72, p=17, ±=0, q=9, r=35, s=44, ³=1, t=22, u=24, v=3, w=0, x=0, y=3, z=0, º=1}
+
+Num silabas 179
+Num letras sin repetir 65
+Total caracteres 87
+Numero de letras escritas{a=68, ¡=2, b=7, c=17, ã=7, d=14, e=53, f=2, g=4, h=4, i=16, ©=1, j=3, k=0, l=13, m=19, ­=2, n=36, o=31, p=10, ±=1, q=1, r=32, s=48, ³=1, t=15, u=14, v=6, w=0, x=1, y=7, z=2, º=0}

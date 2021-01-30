@@ -1,0 +1,3 @@
+1cald.txt = {palabras:100, palabrasNoRepetidas:74}
+2cald.txt = {palabras:136, palabrasNoRepetidas:66}
+3cald.txt = {palabras:88, palabrasNoRepetidas:53}

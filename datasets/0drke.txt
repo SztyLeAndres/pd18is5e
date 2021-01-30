@@ -1,0 +1,25 @@
+Nombre: 1drke.txt 
+Palabras:79
+Palabras sin repetir: 58
+Silabas:146
+Letras: a = 40, b = 3, c = 16, d = 11, e = 58, f = 3, g = 6, h = 6, i = 25, l = 15, m = 12, n = 22, o = 22, p = 10, q = 6, r = 23, s = 28,
+t = 16, u = 22, v = 6, y = 4, z = 3
+
+Nombre: 2drke.txt
+Palabras:86
+Palabras sin repetir:59
+Silabas:179
+Letras: a = 42, b = 9, c = 24, d = 26, e = 56, f = 4, g = 2, h = 5, i = 36, j = 1, l =25, m = 20, n = 24, o = 45, p = 12, q = 2, r = 26, 
+s = 30, t = 17, u = 15, v = 2, y = 5
+
+Nombre: 3drke.txt 
+Palabras:90
+Palabras repetidas:62
+Silabas:192
+Letras:a = 70, b = 6, c = 13, d = 17, e = 61, f = 2, g = 8, h = 2, i = 24, j = 3, l = 16, m = 15, n = 40, o = 35, p = 18, q = 6, r = 38, 
+s = 41,  t = 21, u = 26, v = 4, x = 2, y = 4, z = 1
+
+Todos los archivos
+Silabas: 372
+Letras: a = 111, b = 13, c = 48, d = 38, e = 110, f = 7, g = 11, h = 13, i = 77, j ==> 3, l = 33, m = 31, n = 67, o = 83, p = 32, q = 5, 
+r = 67, s = 73, t = 44, u = 42, v = 10, x = 2, y = 7, z = 4
